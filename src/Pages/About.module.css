@@ -1,0 +1,13 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.mainInfo {
+    display: inline-block;
+    background-color: #262626;
+    width: auto;
+    padding: 100px;
+    border-radius: 20px;
+    color: #f2f2f2;
+}

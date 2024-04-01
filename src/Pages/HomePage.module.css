@@ -1,0 +1,12 @@
+.img{
+    margin-top: 5rem;
+}
+
+.mainInfo {
+    display: inline-block;
+    background-color: #262626;
+    width: 450px;
+    padding: 150px;
+    border-radius: 20px;
+    color: #f2f2f2;
+}
